@@ -1,0 +1,14 @@
+Número de Cuenta: 	829834435
+Tipo de Cuenta: 	Monetaria
+Numero de DPI: 		1111000022223
+Nombre:  		Josué Fernando Hicho García
+Dirección: 		Miami
+Teléfono: 		3334442211111
+Correo: 		josuefernandoHG@gmail.com
+Ocupación: 		Estudiante
+
+
+| 	Fecha		 | 	Deposito | 	Retiro	 | 	Saldo	 |
+| 	2024-05-29	 | 	0.0	 | 	0.0	 | 	70000.0	 |
+| 	2024-05-29	 | 	5000.0	 | 	0.0	 | 	75000.0	 |
+| 	2024-05-29	 | 	0.0	 | 	2000.0	 | 	73000.0	 |

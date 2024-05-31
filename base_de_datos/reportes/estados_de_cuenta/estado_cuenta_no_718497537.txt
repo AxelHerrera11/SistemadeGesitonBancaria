@@ -1,0 +1,19 @@
+Número de Cuenta: 	718497537
+Tipo de Cuenta: 	Ahorro
+Numero de DPI: 		1324123412345
+Nombre:  		María de los Ángeles López Fajardo
+Dirección: 		San Agustín
+Teléfono: 		+502 13141234
+Correo: 		mariadelosangeleslf@gmail.com
+Ocupación: 		Estudiante
+
+
+| 	Fecha		 | 	Deposito | 	Retiro	 | 	Saldo	 |
+| 	2024-05-29	 | 	0.0	 | 	0.0	 | 	60000.0	 |
+| 	2024-05-30	 | 	10000.0	 | 	0.0	 | 	70000.0	 |
+| 	2024-05-30	 | 	0.0	 | 	2000.0	 | 	68000.0	 |
+| 	2024-05-30	 | 	3000.0	 | 	0.0	 | 	71000.0	 |
+| 	2024-05-30	 | 	5000.0	 | 	0.0	 | 	76000.0	 |
+
+
+Saldo Actual: 76000.0

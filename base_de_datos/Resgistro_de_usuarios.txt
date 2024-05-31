@@ -1,0 +1,5 @@
+1234567890123,Axel Eliú,Herrera Sánchez,Agua Caliente,+502 55241203,axelssherrera@gmail.com,Estudiante,10000
+1324123412345,María de los Ángeles,López Fajardo,San Agustín,+502 13141234,mariadelosangeleslf@gmail.com,Estudiante,17000.0
+3334445556667,Didhyer,Ortíz,Agua Salóbrega,+502 22334455,didhyerortiz@gmail.com,Estudiante,20000
+5556662200111,Fernanda,Herrera,Agua Caliente,+502 44558899,fernanga@gmail.com,Estudiante,1500.0
+1111000022223,Josué Fernando,Hicho García,San Agustín,+502 44556677,josuefernandoHG@gmail.com,Estudiante,15000.0

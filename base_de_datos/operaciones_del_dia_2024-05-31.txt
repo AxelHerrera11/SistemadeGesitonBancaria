@@ -1,0 +1,9 @@
+REGISTROS DEL DÍA 2024-05-31
+
+| 	Fecha		 | 	Depositos	 | 	Restiros	 |
+| 	2024-05-31	 | 	10000.0		 | 	0.0		 |
+| 	2024-05-31	 | 	0.0		 | 	2000.0		 |
+
+
+ Total de Dinero Depositado: 	10000.0
+ Total de Dinero Retirado: 	2000.0
