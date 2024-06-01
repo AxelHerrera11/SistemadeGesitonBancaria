@@ -1,0 +1,12 @@
+REGISTROS DEL DÍA 2024-06-01
+
+| 	Fecha		 | 	Depositos	 | 	Retiros		 |
+| 	2024-06-01	 | 	0.0		 | 	0.0		 |
+| 	2024-06-01	 | 	3000.0		 | 	0.0		 |
+| 	2024-06-01	 | 	0.0		 | 	2000.0		 |
+| 	2024-06-01	 | 	5000.0		 | 	0.0		 |
+| 	2024-06-01	 | 	0.0		 | 	200.0		 |
+
+
+ Total de Dinero Depositado: 	8000.0
+ Total de Dinero Retirado: 	2200.0

@@ -373,9 +373,9 @@ public class LogicaReportesTXT {
             }
 
             if (validacionCuentaExiste == false) {
-                setValCuenExiEn(true);
-            } else {
                 setValCuenExiEn(false);
+            } else {
+                setValCuenExiEn(true);
             }
 
         } catch (Exception e) {
@@ -405,7 +405,7 @@ public class LogicaReportesTXT {
             bw = new BufferedWriter(escritor);
 
             String datosDia = "REGISTROS DEL DÍA " + LocalDate.now() + "\n\n"
-                    + "| \t" + "Fecha" + "\t\t | \t" + "Depositos" + "\t | \t" + "Restiros" + "\t |";
+                    + "| \t" + "Fecha" + "\t\t | \t" + "Depositos" + "\t | \t" + "Retiros" + "\t\t |";
 
             bw.write(datosDia);
             bw.newLine();

@@ -1,0 +1,19 @@
+Número de Cuenta: 	63124756
+Tipo de Cuenta: 	Monetaria
+Numero de DPI: 		2233445566778
+Nombre:  		Axel Eliú Herrera Sanchez
+Dirección: 		Agua Caliente
+Teléfono: 		+502 33445566
+Correo: 		axel@gmail.com
+Ocupación: 		Estudiante
+
+
+| 	Fecha		 | 	Deposito | 	Retiro	 | 	Saldo	 |
+| 	2024-06-01	 | 	0.0	 | 	0.0	 | 	20000.0	 |
+| 	2024-06-01	 | 	3000.0	 | 	0.0	 | 	23000.0	 |
+| 	2024-06-01	 | 	0.0	 | 	2000.0	 | 	21000.0	 |
+| 	2024-06-01	 | 	5000.0	 | 	0.0	 | 	26000.0	 |
+| 	2024-06-01	 | 	0.0	 | 	200.0	 | 	25800.0	 |
+
+
+Saldo Actual: 25800.0
